@@ -22,7 +22,7 @@ java -jar cl-text-search-engine-1.0.0.jar /path/to/directory/containing/text/fil
 test folder available here: src/test/resources
 
 # NEXT STEPS
-[] change search algorithm
-[] manage corner cases (i.e. empty repository, empty file)
-[] throw proprietary exceptions
-[] decorates com.company.searcheng.text.cl.TextSearchEngine with console output
+change search algorithm
+manage corner cases (i.e. empty repository, empty file)
+throw proprietary exceptions
+decorates com.company.searcheng.text.cl.TextSearchEngine with console output
