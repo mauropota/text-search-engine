@@ -7,10 +7,6 @@ This​ ​should​ ​read​ ​all​ ​the​ ​text​ ​files​ ​in
 ​building​ ​an​ i​​ n​ ​memory​​ ​representation​ ​of​ ​the files​ ​and​ ​their​ ​contents,​
 ​and​ ​then​ ​give​ ​a​ ​command​ ​prompt​ ​at​ ​which​ ​interactive​ ​searches​ ​can​ ​be performed.
 
-# AUTHOR
-Mauro Santoro
-phd.santoro@gmail.com
-
 # BUILD
 The project contains Maven config for testing and packaging the application.
 
@@ -23,6 +19,9 @@ test folder available here: src/test/resources
 
 # NEXT STEPS
 change search algorithm
+
 manage corner cases (i.e. empty repository, empty file)
+
 throw proprietary exceptions
+
 decorates com.company.searcheng.text.cl.TextSearchEngine with console output
